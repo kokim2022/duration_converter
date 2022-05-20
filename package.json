@@ -1,0 +1,24 @@
+{
+  "name": "waiyan_duration_converter",
+  "version": "1.0.0",
+  "description": "convert second to h:m:s format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kokim2022/duration_converter.git"
+  },
+  "keywords": [
+    "duration",
+    "second",
+    "h:m:s"
+  ],
+  "author": "waiyan1996",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kokim2022/duration_converter/issues"
+  },
+  "homepage": "https://github.com/kokim2022/duration_converter#readme"
+}
