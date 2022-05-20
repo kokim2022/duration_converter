@@ -1,6 +1,6 @@
 {
   "name": "waiyan_duration_converter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "convert second to h:m:s format",
   "main": "index.js",
   "scripts": {
